@@ -74,7 +74,7 @@ ProMow is an actively developed product concept and implementation. This public 
 
 ## Links
 
-- **Product website:** Coming soon
+- **Product website:** [promow.org](https://promow.org)
 - **Demo:** Coming soon
 - **Contact:** Open an issue in this repository for product questions or partnership inquiries
 
@@ -85,3 +85,4 @@ This repository intentionally contains no source code, infrastructure configurat
 ## License
 
 The documentation and original product materials in this repository are © 2026 ProMow. All rights reserved. No license is granted to copy, modify, or redistribute the ProMow brand, product materials, or documentation without written permission.
+
